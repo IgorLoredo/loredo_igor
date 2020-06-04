@@ -9,3 +9,5 @@ Site de receitas
 MathBot
 ----------------
 
+Coleta
+-----------------
